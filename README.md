@@ -1,5 +1,6 @@
 ﻿# NppCrypt 1.0.1.3
-[Official Homepage][https://github.com/jeanpaulrichter/nppcrypt]
+[Official Homepage](https://github.com/jeanpaulrichter/nppcrypt)
+
 Here only provide version 1.0.1.3 compiled dll.
 
 ### compiler env
